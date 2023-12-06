@@ -1,0 +1,16 @@
+{
+    "name": "Srijan",
+    "age": 24,
+    "city": "pokhara",
+    "country": "Nepal",
+    "isProInProgramming": false,
+    "hobbies":["football","gaming","music"],
+    "myObj": {
+        "name": "sweck",
+        "age": 22,
+        "city": "pokhara",
+        "country": "Nepal",
+        "isDoctor": false,
+        "hobbies":["dancing","sports","music"]
+    }
+}
